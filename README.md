@@ -1,2 +1,2 @@
-# Debso-Technologies
-Main Webpage Debso Technologies
+# DEBSO - Technologies
+Página principal
